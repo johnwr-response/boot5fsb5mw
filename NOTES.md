@@ -132,3 +132,10 @@
 | -3 | 1.00 rem |
 | -4 | 1.50 rem |
 | -5 | 3.00 rem |
+
+### Sizing, Borders & Shadows
+
+- Sizing easily make an element as wide or as tall with our width and height utilities
+- Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element
+- Add or remove shadows to elements with box-shadow utilities.
+- For sizes you most likely need to write custom CSS as there is not too much to work with here
