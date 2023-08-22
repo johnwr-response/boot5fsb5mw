@@ -101,3 +101,9 @@
 ### Bootstrap Sandbox Setup
 
 - Files added in [bootstrap-sandbox folder](bootstrap-sandbox/template.html)
+
+## Bootstrap Fundamentals - Part 1
+
+### Containers
+
+- Containers are a fundamental building block of Bootstrap that contain, pad, and align your content within a given device or viewport.
