@@ -46,7 +46,7 @@
 - Bootstrap is heavily used in all areas including enterprise, startups and freelancers/agencies
 - It is the alternative to Tailwind CSS
 - Most people that say Bootstrap (or anything for that matter) is dead are influencers and people that never worked in the real world
-- Some large companies thath use Bootstrap are: Twitter, Spotify, Linkedin, Udemy, Upwork and many, many more 
+- Some large companies thath use Bootstrap are: Twitter, Spotify, Linkedin, Udemy, Upwork and many, many more
 
 ### How to use Bootstrap
 
@@ -77,3 +77,23 @@
 - You can compile the Bootstrap Sass files on your own and customize the CSS that is built from them
 - You can download the Sass files or install them using a package manager like **NPM**
 - This method is more complicated but very customizable **and local**
+
+### Basic Environment Setup
+
+#### Text editor
+
+- Visual Studio Code
+
+#### Runtime Environment (for utilizing npm)
+
+- Node.js
+
+#### Version Control System
+
+- git
+
+#### Visual Studio Code Extensions
+
+- **Live server** : Launch a development local Server with live reload feature for static & dynamic pages
+- **Prettier - Code formatter** : Opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary. (Also recommended to enable ***Editor: Format On Save Mode*** in ***Settings***)
+- **Emmet**: Abbreviations transformed into structured code block. Improves HTML & CSS workflow: Usually already installed
