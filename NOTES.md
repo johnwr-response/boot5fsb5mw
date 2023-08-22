@@ -112,3 +112,8 @@
 
 - Typography is a feature of Bootstrap for styling and formatting the text content
 - Automatically selects the best font family for your device
+
+### Display & Position
+
+- The Position Helper is for quickly configuring the position of an element
+- The Display Property is to quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing
