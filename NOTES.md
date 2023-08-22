@@ -122,3 +122,13 @@
 
 - Convey meaning through background-color and add decoration with gradients
 - Convey meaning through text-color with a handful of color utility classes. Includes support for styling links with hover states
+
+### Spacing
+
+- Bootstrap includes a wide range of shorthand responsive margin, padding, and gap utility classes to modify an element’s appearance
+- Spacing values:
+| -1 | 0.25 rem |
+| -2 | 0.50 rem |
+| -3 | 1.00 rem |
+| -4 | 1.50 rem |
+| -5 | 3.00 rem |
