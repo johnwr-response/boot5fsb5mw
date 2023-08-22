@@ -160,3 +160,8 @@
 ### Navbar
 
 - Bootstrap’s powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin
+
+### Dark Mode & Variables
+
+- Bootstrap now supports color modes, or themes, as of v5.3.0. Explore our default light color mode and the new dark mode, or create your own using our styles as your template
+- Use Bootstrap’s CSS custom properties for fast and forward-looking design and development
