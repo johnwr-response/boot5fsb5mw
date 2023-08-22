@@ -139,3 +139,16 @@
 - Use border utilities to quickly style the border and border-radius of an element. Great for images, buttons, or any other element
 - Add or remove shadows to elements with box-shadow utilities.
 - For sizes you most likely need to write custom CSS as there is not too much to work with here
+
+### Breakpoints
+
+- Breakpoints are customizable widths that determine how your responsive layout behaves across device or viewport sizes in Bootstrap
+
+#### Default Breakpoints
+
+| Extra Small       | <576px  |
+| Small             | ≥576px  |
+| Medium            | ≥768px  |
+| Large             | ≥992px  |
+| Extra Large       | ≥1200px |
+| Extra Extra Large | ≥1400px |
