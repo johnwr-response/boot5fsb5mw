@@ -97,3 +97,7 @@
 - **Live server** : Launch a development local Server with live reload feature for static & dynamic pages
 - **Prettier - Code formatter** : Opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary. (Also recommended to enable ***Editor: Format On Save Mode*** in ***Settings***)
 - **Emmet**: Abbreviations transformed into structured code block. Improves HTML & CSS workflow: Usually already installed
+
+### Bootstrap Sandbox Setup
+
+- Files added in [bootstrap-sandbox folder](bootstrap-sandbox/template.html)
