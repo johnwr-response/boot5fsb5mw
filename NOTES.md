@@ -156,3 +156,7 @@
 ### Buttons
 
 - Use Bootstrap’s custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more
+
+### Navbar
+
+- Bootstrap’s powerful, responsive navigation header, the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin
