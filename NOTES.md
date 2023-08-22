@@ -107,3 +107,8 @@
 ### Containers
 
 - Containers are a fundamental building block of Bootstrap that contain, pad, and align your content within a given device or viewport.
+
+### Typography
+
+- Typography is a feature of Bootstrap for styling and formatting the text content
+- Automatically selects the best font family for your device
