@@ -117,3 +117,8 @@
 
 - The Position Helper is for quickly configuring the position of an element
 - The Display Property is to quickly and responsively toggle the display value of components and more with our display utilities. Includes support for some of the more common values, as well as some extras for controlling display when printing
+
+### Background & Text Colors
+
+- Convey meaning through background-color and add decoration with gradients
+- Convey meaning through text-color with a handful of color utility classes. Includes support for styling links with hover states
