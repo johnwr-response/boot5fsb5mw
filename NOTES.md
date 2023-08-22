@@ -47,3 +47,33 @@
 - It is the alternative to Tailwind CSS
 - Most people that say Bootstrap (or anything for that matter) is dead are influencers and people that never worked in the real world
 - Some large companies thath use Bootstrap are: Twitter, Spotify, Linkedin, Udemy, Upwork and many, many more 
+
+### How to use Bootstrap
+
+#### Using a CDN (Content Delivery Network)
+
+- Use remote links in your HTML file for the CSS and JS (I.e. via jsDelivr)
+
+```html
+<link href="..." rel="stylesheet" />
+<script src="..."></script>
+```
+
+- This method is not very customizable, but is quick and simple
+
+#### Download the files
+
+- You can download the compiled CSS and JS and include them locally instead of using remote links
+
+```html
+<link href="bootstrap.min.css" rel="stylesheet" />
+<script src="bootstrap.min.js"></script>
+```
+
+- This method is also not very customizable, but it is quick, simple **and local**
+
+#### Compiling Sass
+
+- You can compile the Bootstrap Sass files on your own and customize the CSS that is built from them
+- You can download the Sass files or install them using a package manager like **NPM**
+- This method is more complicated but very customizable **and local**
