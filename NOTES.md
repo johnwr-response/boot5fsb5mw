@@ -176,3 +176,7 @@
 ### Flexbox Classes
 
 - Quickly manage the layout, alignment, and sizing of grid columns, navigation, components, and more with a full suite of responsive flexbox utilities. For more complex implementations, custom CSS may be necessary
+
+### Cards
+
+- Bootstrap’s cards provide a flexible and extensible content container with multiple variants and options. A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options
