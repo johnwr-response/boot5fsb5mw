@@ -207,3 +207,10 @@
 
 - Breadcrumbs indicate the current page’s location within a navigational hierarchy that automatically adds separators via CSS
 - Showing pagination to indicate a series of related content exists across multiple pages
+
+### Other CSS Utilities
+
+- Text truncation truncates long strings of text with an ellipsis
+- Stretched link makes any HTML element or Bootstrap component clickable by “stretching” a nested link via CSS
+- Visibility controls the visibility of elements, without modifying their display, with visibility utilities
+- Toggle floats on any element, across any breakpoint, using our responsive float utilities. (Aren't used much any more because of flexbox)
