@@ -193,3 +193,8 @@
 ### Form Validation & Display
 
 - Provide valuable, actionable feedback to your users with HTML5 form validation, via browser default behaviors or custom styles and JavaScript
+
+### Alerts & Progress Bars
+
+- Alerts Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages
+- Custom progress bars featuring support for stacked bars, animated backgrounds, and text labels
