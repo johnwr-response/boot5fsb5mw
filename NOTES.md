@@ -189,3 +189,7 @@
 ### Forms & Input
 
 - Bootstrap’s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices
+
+### Form Validation & Display
+
+- Provide valuable, actionable feedback to your users with HTML5 form validation, via browser default behaviors or custom styles and JavaScript
