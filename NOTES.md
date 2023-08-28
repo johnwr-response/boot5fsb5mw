@@ -214,3 +214,9 @@
 - Stretched link makes any HTML element or Bootstrap component clickable by “stretching” a nested link via CSS
 - Visibility controls the visibility of elements, without modifying their display, with visibility utilities
 - Toggle floats on any element, across any breakpoint, using our responsive float utilities. (Aren't used much any more because of flexbox)
+
+## Dynamic JavaScript Components
+
+### Dropdowns
+
+- Dropdowns toggles contextual overlays for displaying lists of links and more with the Bootstrap dropdown plugin
