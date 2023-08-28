@@ -202,3 +202,8 @@
 ### Tables
 
 - Opt-in styling of tables (given their prevalent use in JavaScript plugins) with Bootstrap
+
+### Breadcrumbs & Pagination
+
+- Breadcrumbs indicate the current page’s location within a navigational hierarchy that automatically adds separators via CSS
+- Showing pagination to indicate a series of related content exists across multiple pages
