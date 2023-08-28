@@ -198,3 +198,7 @@
 
 - Alerts Provide contextual feedback messages for typical user actions with the handful of available and flexible alert messages
 - Custom progress bars featuring support for stacked bars, animated backgrounds, and text labels
+
+### Tables
+
+- Opt-in styling of tables (given their prevalent use in JavaScript plugins) with Bootstrap
