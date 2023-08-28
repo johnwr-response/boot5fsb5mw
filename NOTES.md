@@ -220,3 +220,8 @@
 ### Dropdowns
 
 - Dropdowns toggles contextual overlays for displaying lists of links and more with the Bootstrap dropdown plugin
+
+### Accordions & Collapse
+
+- Vertically collapsing accordions in combination with Collapse JavaScript plugin
+- Collapse toggle the visibility of content across your project with a few classes and JavaScript plugins
