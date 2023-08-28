@@ -180,3 +180,8 @@
 ### Cards
 
 - Bootstrap’s cards provide a flexible and extensible content container with multiple variants and options. A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options
+
+### List Groups & Badges
+
+- List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within
+- Badges are a small count and labeling component that scale to match the size of the immediate parent element by using relative font sizing and em units
