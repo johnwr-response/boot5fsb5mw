@@ -185,3 +185,7 @@
 
 - List groups are a flexible and powerful component for displaying a series of content. Modify and extend them to support just about any content within
 - Badges are a small count and labeling component that scale to match the size of the immediate parent element by using relative font sizing and em units
+
+### Forms & Input
+
+- Bootstrap’s form controls expand on our Rebooted form styles with classes. Use these classes to opt into their customized displays for a more consistent rendering across browsers and devices
