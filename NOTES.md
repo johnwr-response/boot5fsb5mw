@@ -233,3 +233,7 @@
 ### Toast Notification
 
 - Push notifications to your visitors with a toast, a lightweight and easily customizable alert message
+
+### Spinners
+
+- Spinners indicate the loading state of a component or page with Bootstrap, built entirely with HTML, CSS, and no JavaScript
