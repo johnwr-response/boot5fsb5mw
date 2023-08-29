@@ -237,3 +237,7 @@
 ### Spinners
 
 - Spinners indicate the loading state of a component or page with Bootstrap, built entirely with HTML, CSS, and no JavaScript
+
+### Modals
+
+- Use Bootstrap’s JavaScript modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content
