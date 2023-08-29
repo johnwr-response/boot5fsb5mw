@@ -225,3 +225,7 @@
 
 - Vertically collapsing accordions in combination with Collapse JavaScript plugin
 - Collapse toggle the visibility of content across your project with a few classes and JavaScript plugins
+
+### Carousel
+
+- A slideshow component for cycling through elements—images or slides of text—like a carousel
