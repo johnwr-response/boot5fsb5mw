@@ -229,3 +229,7 @@
 ### Carousel
 
 - A slideshow component for cycling through elements—images or slides of text—like a carousel
+
+### Toast Notification
+
+- Push notifications to your visitors with a toast, a lightweight and easily customizable alert message
