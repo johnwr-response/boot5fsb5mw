@@ -249,4 +249,8 @@
 
 ### Darkmode Toggle
 
-- 
+## Mini-Project Challenges
+
+### Intro & Mini-Project Starter
+
+- Creating an empty bootstrap starter
