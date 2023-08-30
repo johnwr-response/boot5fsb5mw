@@ -263,3 +263,5 @@
 ### Ratings Component
 
 - Using Font Awesome Icons: [https://fontawesome.com//](https://fontawesome.com/) Fetched CDN from [https://cdnjs.com/](https://cdnjs.com/)
+
+### User List
