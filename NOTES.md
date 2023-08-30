@@ -246,3 +246,7 @@
 
 - Add Bootstrap popovers, like those found in iOS, to any element on your site
 - Add custom Bootstrap tooltips with CSS and JavaScript using CSS3 for animations and data-bs-attributes for local title storage
+
+### Darkmode Toggle
+
+- 
