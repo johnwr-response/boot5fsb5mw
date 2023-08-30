@@ -254,3 +254,8 @@
 ### Intro & Mini-Project Starter
 
 - Creating an empty bootstrap starter
+
+### Pricing Cards
+
+- Using Bootstrap Icons: [https://icons.getbootstrap.com/](https://icons.getbootstrap.com/)
+- Using poppins font from Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
