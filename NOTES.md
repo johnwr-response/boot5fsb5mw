@@ -259,3 +259,7 @@
 
 - Using Bootstrap Icons: [https://icons.getbootstrap.com/](https://icons.getbootstrap.com/)
 - Using poppins font from Google Fonts: [https://fonts.google.com/](https://fonts.google.com/)
+
+### Ratings Component
+
+- Using Font Awesome Icons: [https://fontawesome.com//](https://fontawesome.com/) Fetched CDN from [https://cdnjs.com/](https://cdnjs.com/)
