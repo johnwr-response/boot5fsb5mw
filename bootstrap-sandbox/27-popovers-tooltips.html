@@ -12,15 +12,24 @@
       <h1 class="mb-5">Popovers & Tooltips</h1>
 
       <!-- Popover -->
+      <button class="btn btn-danger btn-lg" id="popover" data-bs-toggle="popover" data-bs-title="Popover Title" data-bs-content="This is the popover content">Toggle Popover</button>
 
       <br /><br />
 
       <!-- Tooltip -->
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Cupiditate <a href="#" data-bs-toggle="tooltip" data-bs-title="Tooltip One">tooltip one</a> consequatur incidunt provident nam doloremque ex culpa. Vel facere aliquam distinctio <a href="#" data-bs-toggle="tooltip" data-bs-title="Tooltip Two">tooltip two</a> officia ad tempore vero cumque, ratione consectetur molestias hic inventore?</p>
 
       <!-- Don't go past here -->
     </div>
     <div style="margin-top: 350px"></div>
 
     <script src="./assets/js/bootstrap.bundle.min.js"></script>
+    <script>
+      const popoverEL = document.getElementById('popover');
+      const popover = new bootstrap.Popover(popoverEL)
+
+      const tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+      const tooltipList = [...tooltipTriggerList].map((tooltipTriggerEL) => new bootstrap.Tooltip(tooltipTriggerEL));
+    </script>
   </body>
 </html>

@@ -241,3 +241,8 @@
 ### Modals
 
 - Use Bootstrap’s JavaScript modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content
+
+### Popovers & Tooltips
+
+- Add Bootstrap popovers, like those found in iOS, to any element on your site
+- Add custom Bootstrap tooltips with CSS and JavaScript using CSS3 for animations and data-bs-attributes for local title storage
