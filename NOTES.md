@@ -341,3 +341,9 @@ NPM (Node Package Manager) is a tool to install packages via the command line
 - Create `fontawesome.scss` file : ```ni scss/fontawesome.scss -type file```
 - Create webfonts folder : ```md webfonts```
 - Copy webfonts from fontawesome into webfonts folder : ``` cp .\node_modules\@fortawesome\fontawesome-free\webfonts\* .\webfonts\. ```
+
+### Starter Template Download
+- Download from: [https://github.com/bradtraversy/bs5-simple-starter](https://github.com/bradtraversy/bs5-simple-starter)
+- Install dependencies with: **npm install**
+- Watch the sass files with: **npm run: sass:watch**
+- Open project html file with Live Server
