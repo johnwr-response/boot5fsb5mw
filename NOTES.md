@@ -354,3 +354,20 @@ NPM (Node Package Manager) is a tool to install packages via the command line
 ### Project Intro
 
 - Responsive, navigation bar, custom primary color, background effect using svg, font awesome icons, modal, input, contact form, map, Formspree, deployment
+
+### Project Setup
+
+#### Ebook website changes from bs5-simple-starter
+
+- Used bs5-simple-starter
+- Added favicon
+- Added open-sans font from google fonts
+- Added font family variable in bootstrap.scss
+- Changed sample text in html
+
+#### Steps to start developing ebook website
+
+- CD to folder : ```cd ebook-website```
+- Install dependencies ```npm i```
+- Run the sass:watch script to constantly watch for changes and build new css: ```npm run sass:watch```
+- Override colors in bootstrap.scss
