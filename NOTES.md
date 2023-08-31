@@ -291,3 +291,33 @@
   - Desktop applications (eg. Koala)
   - IDE & editor extensions (eg. Live Sass Compiler)
   - Build tools (eg. Webpack, Parcel)
+
+### Install & Setup Sass
+
+- What is NPM
+NPM (Node Package Manager) is a tool to install packages via the command line
+
+- Over 1.5 Million packages at [npmjs.org](npmjs.org)
+- Install Node.js to use NPM - [nodejs.org](nodejs.org)
+- Packages/dependencies are listed in your `package.json` file
+- You can install packages with:
+
+  ```shell
+  npm install PACKAGENAME
+  ```
+
+#### Create the simple starter
+
+- CD to repo root folder
+- Create project folder : ```md bs5-simple-starter```
+- CD to folder : ```cd bs5-simple-starter```
+- Create package.json : ```npm init -y```
+- Install Sass (locally in this environment) : ```npm install sass```
+- Create `.gitignore` file in repository root folder if not exists : ```ni ../.gitignore -type file```
+- Create sass folder : ```md scss```
+- Create `styles.scss` file : ```ni scss/styles.scss -type file```
+- Add `sass:build` in `scripts` section of `package.json`
+- Run the new script: ```npm run sass:build```
+- Create root `index.html` file : ```ni index.html -type file```
+- Add `sass:watch` in `scripts` section of `package.json`
+- Run the new script to constantly watch for changes and build new css: ```npm run sass:watch```
