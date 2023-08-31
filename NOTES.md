@@ -334,3 +334,10 @@ NPM (Node Package Manager) is a tool to install packages via the command line
   - Click on the Cogwheel in the upper right corner of chrome.
   - Make sure that "Preferences" is selected under "Settings" in the left sidebar.
   - In the "Sources" section, uncheck the "Enable JavaScript source maps" checkbox to disable it.
+
+### Install & Setup Font Awesome
+
+- Install free version of Font Awesome (locally in this environment) : ```npm i @fortawesome/fontawesome-free```
+- Create `fontawesome.scss` file : ```ni scss/fontawesome.scss -type file```
+- Create webfonts folder : ```md webfonts```
+- Copy webfonts from fontawesome into webfonts folder : ``` cp .\node_modules\@fortawesome\fontawesome-free\webfonts\* .\webfonts\. ```
