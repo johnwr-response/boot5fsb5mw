@@ -265,3 +265,29 @@
 - Using Font Awesome Icons: [https://fontawesome.com//](https://fontawesome.com/) Fetched CDN from [https://cdnjs.com/](https://cdnjs.com/)
 
 ### User List
+
+## Custom Sass Workflow & Starter Template
+
+### What Is Sass
+
+- Sass is a CSS Pre-Processor that adds extra features to CSS
+  - Sass files usually have a `.scss` extension
+  - Sass files need to be compiled to regular CSS
+  - We can edit Bootstrap Sass variables and then compile our own version of `bootstrap.css`
+
+- Here are some of the main features that Sass offers.
+  - Variables
+  - Nesting
+  - Mixins
+  - Imports
+  - Inheritance (@extend)
+  - Operators
+  - Conditionals
+  - Modularity & Reusability
+
+- There are many ways to compile .sass/.scss files to CSS
+  - Task managers (eg. Gulp & Grunt)
+  - Sass packages / command line tools (eg. sass, node-sass)
+  - Desktop applications (eg. Koala)
+  - IDE & editor extensions (eg. Live Sass Compiler)
+  - Build tools (eg. Webpack, Parcel)
