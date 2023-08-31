@@ -323,3 +323,14 @@ NPM (Node Package Manager) is a tool to install packages via the command line
 - Create root `index.html` file : ```ni index.html -type file```
 - Add `sass:watch` in `scripts` section of `package.json`
 - Run the new script to constantly watch for changes and build new css: ```npm run sass:watch```
+
+### Install, Setup & Customize Bootstrap
+
+- Install bootstrap (locally in this environment) : ```npm i bootstrap```
+- Create `bootstrap.scss` file : ```ni scss/bootstrap.scss -type file```
+- Copy javascript file from node_modules : ``` cp .\node_modules\bootstrap\dist\js\bootstrap.bundle.min.js .\js\. ```
+- To get rid of the error in console for Chrome development tools [ctrl-shift-i]  
+`DevTools failed to load source map: Could not load content for bootstrap.bundle.min.js.map`
+  - Click on the Cogwheel in the upper right corner of chrome.
+  - Make sure that "Preferences" is selected under "Settings" in the left sidebar.
+  - In the "Sources" section, uncheck the "Enable JavaScript source maps" checkbox to disable it.
