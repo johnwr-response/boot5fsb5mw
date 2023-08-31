@@ -316,6 +316,8 @@ NPM (Node Package Manager) is a tool to install packages via the command line
 - Create `.gitignore` file in repository root folder if not exists : ```ni ../.gitignore -type file```
 - Create sass folder : ```md scss```
 - Create `styles.scss` file : ```ni scss/styles.scss -type file```
+- Create js folder : ```md js```
+- Create js script file : ```ni js/script.js -type file```
 - Add `sass:build` in `scripts` section of `package.json`
 - Run the new script: ```npm run sass:build```
 - Create root `index.html` file : ```ni index.html -type file```
