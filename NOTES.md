@@ -371,3 +371,5 @@ NPM (Node Package Manager) is a tool to install packages via the command line
 - Install dependencies ```npm i```
 - Run the sass:watch script to constantly watch for changes and build new css: ```npm run sass:watch```
 - Override colors in bootstrap.scss
+
+### Navigation & Sass Variables
