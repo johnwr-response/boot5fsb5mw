@@ -373,3 +373,5 @@ NPM (Node Package Manager) is a tool to install packages via the command line
 - Override colors in bootstrap.scss
 
 ### Navigation & Sass Variables
+
+### Header/Hero Section
