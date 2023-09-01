@@ -249,6 +249,40 @@
 
 ### Darkmode Toggle
 
+## Extra Section about standard data attributes
+
+- Bootstrap's specific data attributes, which are used to initialize and configure Bootstrap's JavaScript plugins
+
+`data-` **Attributes for Data Storage:**  
+`data-id`: Used to store an identifier associated with an element.  
+`data-name`: Used to store a name or label for an element.  
+`data-value`: Used to store a value associated with an element.
+
+`data-` **Attributes for Interaction:**  
+`data-toggle`: Used to control the behavior of toggling components like modals, tooltips, and dropdowns.  
+`data-target`: Used to specify the target element for toggling actions.  
+`data-dismiss`: Used to dismiss a component (e.g., close a modal) via a specific element.
+
+`data-` **Attributes for Custom Styling:**  
+`data-custom-class`: Used to store a custom CSS class that can be applied using JavaScript.  
+`data-bg-color`: Used to define a custom background color for an element.
+
+`data-` **Attributes for Configuration:**  
+`data-options`: Used to store JSON-encoded options for a component.  
+`data-config`: Used to store configuration settings for an element.
+
+`data-` **Attributes for State Tracking:**  
+`data-active`: Used to indicate the active state of an element.  
+`data-disabled`: Used to indicate that an element is disabled.  
+`data-selected`: Used to indicate that an element is selected.
+
+`data-` **Attributes for Miscellaneous Purposes:**  
+`data-tooltip`: Used to provide tooltip text for an element.  
+`data-label`: Used to define a label for an element.  
+`data-info`: Used to store additional information about an element.
+
+These are the standard data attributes in html. bootstrap basically just extends them with `data-bs` followed by a bootstrap extension like `-theme` or `-content` etc.
+
 ## Mini-Project Challenges
 
 ### Intro & Mini-Project Starter
