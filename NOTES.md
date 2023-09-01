@@ -413,3 +413,5 @@ NPM (Node Package Manager) is a tool to install packages via the command line
 ### Icon Section
 
 ### Navbar Scroll Effect
+
+### Details Sections With Modals
