@@ -385,11 +385,11 @@ NPM (Node Package Manager) is a tool to install packages via the command line
 
 ## Website 1 - Ebook Website
 
-### Project Intro
+### Ebook Project Intro
 
 - Responsive, navigation bar, custom primary color, background effect using svg, font awesome icons, modal, input, contact form, map, Formspree, deployment
 
-### Project Setup
+### Ebook Project Setup
 
 #### Ebook website changes from bs5-simple-starter
 
@@ -447,3 +447,9 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 - Create a form with an email to forward the submissions to
 - Then you will get an enpoint url to add to your form:action
 - Remember that each field needs an unique name attribute
+
+## Website 2 - Corso Training Website
+
+### Corso Training Project Intro
+
+- Responsive, navigation bar, background image pattern with custom css for overlay and carousel, sliders, cards
