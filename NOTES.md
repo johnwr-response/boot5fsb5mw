@@ -474,3 +474,5 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 - Add some other variables in bootstrap.scss
 
 ### Nav & Header
+
+### Image Carousel
