@@ -476,3 +476,5 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 ### Nav & Header
 
 ### Image Carousel
+
+### Register Area, Nav Scroll & Details
