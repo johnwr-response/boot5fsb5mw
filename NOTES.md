@@ -437,3 +437,13 @@ A frontend hosting service [https://vercel.com/](https://vercel.com/)
 - Press deploy
 - The app will then be available at [https://ebook-website.vercel.app](https://ebook-website.vercel.app) or your custom domain
 - Changes pushed to the github will then be updated at the vercel app
+
+### Formspree For Contact Forms
+
+A form submission hosting service [https://formspree.io/](https://formspree.io/). All submissions will also be emailed to you.
+
+- Has free plans up to 50 monthly submissions, and paid plans
+- Create an account
+- Create a form with an email to forward the submissions to
+- Then you will get an enpoint url to add to your form:action
+- Remember that each field needs an unique name attribute
