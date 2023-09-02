@@ -419,3 +419,21 @@ NPM (Node Package Manager) is a tool to install packages via the command line
 ### Testimonials, Download Section & Footer
 
 ### Contact Page
+
+### Deploy To Vercel
+
+A frontend hosting service [https://vercel.com/](https://vercel.com/)
+
+- Integrated with Github/Gitlab/Bitbucket so that it will automatically publish changes when you push to main (or a dedicated) branch
+- Log in to Vercel using your repository credentials
+- Select Plan Hobby/Pro
+- Create/Add new project
+- Import your Git Repository
+- If using sass, go to Build and Output Settings to make it create your CSS
+  - Override Build Command with
+    - `npm run sass:build`
+  - Override Output Directory to `root` and not `public`
+    - `/`
+- Press deploy
+- The app will then be available at [https://ebook-website.vercel.app](https://ebook-website.vercel.app) or your custom domain
+- Changes pushed to the github will then be updated at the vercel app
