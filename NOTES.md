@@ -453,3 +453,22 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 ### Corso Training Project Intro
 
 - Responsive, navigation bar, background image pattern with custom css for overlay and carousel, sliders, cards
+
+### Corso Training Project Setup
+
+#### Steps to start developing Corso website
+
+- CD to folder : ```cd corso-website```
+- Install dependencies ```npm i```
+- Run the sass:watch script to constantly watch for changes and build new css: ```npm run sass:watch```
+
+#### Corso website changes from bs5-simple-starter
+
+- Used bs5-simple-starter
+- Added images
+- Added Montserrat font from google fonts in html
+- Added font family variable in bootstrap.scss
+- Changed sample text in html
+- Override colors in bootstrap.scss
+- Add spacing in bootstrap.scss
+- Add some other variables in bootstrap.scss
