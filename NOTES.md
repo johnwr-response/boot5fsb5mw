@@ -588,3 +588,9 @@ Includes a very simple form service for forms submissions
 ### Back To Top Button
 
 ### Inner Article Page
+
+## Website 5 - Vera Software Solutions
+
+### Vera Software Solutions Project Intro
+
+- Responsive, navigation bar, third party javascript, custom css for absolute background images, image cards with badges, video section with animated button, video modal, image card modals, subscribe form
