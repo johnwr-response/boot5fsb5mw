@@ -594,3 +594,22 @@ Includes a very simple form service for forms submissions
 ### Vera Software Solutions Project Intro
 
 - Responsive, navigation bar, third party javascript, custom css for absolute background images, image cards with badges, video section with animated button, video modal, image card modals, subscribe form
+
+### Vera Software Solutions Project Setup
+
+#### Steps to start developing Vera Software Solutions
+
+- CD to folder : ```cd vera-website```
+- Install dependencies ```npm i```
+- Run the sass:watch script to constantly watch for changes and build new css: ```npm run sass:watch```
+- Start live server and open in browser
+
+#### Vera Software Solutions changes from bs5-simple-starter
+
+- Used bs5-simple-starter
+- Changed sample text in html
+- Added Poppins font from google fonts in html
+- Added the replacement.min.js script
+- Added images
+- Added font family variable in bootstrap.scss
+- Override colors, spacing, navbar, buttons and inputs in bootstrap.scss
