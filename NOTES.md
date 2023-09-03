@@ -530,3 +530,21 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 - Includes z-index trick to overlay background image and not foreground text
 
 ### Stats & Forms
+
+### Deploy to Netlify
+
+A frontend hosting service [https://www.netlify.com/](https://www.netlify.com/)  
+Includes a very simple form service for forms submissions
+
+- Integrated with Github/Gitlab/Bitbucket/Azure DevOps so that it will automatically publish changes when you push to main (or a dedicated) branch
+- Log in to Netlify using your repository credentials
+- Click Add new site and import your Git Repository
+  - Select your branch: `main`
+  - Set base directory: `/`
+  - Set build command to build sass: `npm run sass:build`
+- Press deploy site
+- The app will then be available at [https://portfolio-website-[dockerid].netlify.app](https://portfolio-website-[dockerid].netlify.app) or your custom domain
+- Changes pushed to the github will then be updated at the netlify app
+
+- Enable form detection by pressing button in Forms section  
+- Has free plans up to 100 monthly submissions, and paid plans
