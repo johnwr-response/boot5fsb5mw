@@ -518,3 +518,5 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 ### Header With Overlay
 
 - Includes z-index trick to overlay background image and not foreground text
+
+### Typing effect JavaScript
