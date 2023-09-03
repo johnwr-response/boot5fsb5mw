@@ -522,3 +522,5 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 ### Typing effect JavaScript
 
 ### About & Skills Sections
+
+### Projects & Lightbox
