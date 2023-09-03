@@ -480,3 +480,5 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 ### Register Area, Nav Scroll & Details
 
 ### Points & Summary Sections
+
+### Invitations & Takeaways
