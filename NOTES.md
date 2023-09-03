@@ -586,3 +586,5 @@ Includes a very simple form service for forms submissions
 ### Contact Form & Footer
 
 ### Back To Top Button
+
+### Inner Article Page
