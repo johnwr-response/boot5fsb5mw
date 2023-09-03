@@ -524,3 +524,7 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 ### About & Skills Sections
 
 ### Projects & Lightbox
+
+### StyleShout & Services
+
+- Includes z-index trick to overlay background image and not foreground text
