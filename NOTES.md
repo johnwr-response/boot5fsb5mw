@@ -580,3 +580,5 @@ Includes a very simple form service for forms submissions
 ### Intro, Details & Services
 
 ### Middle Sections
+
+### Projects & Testimonials
