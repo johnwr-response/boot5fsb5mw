@@ -576,3 +576,5 @@ Includes a very simple form service for forms submissions
 ### Navigation & Header
 
 ### Stats & JavaScript Increment
+
+### Intro, Details & Services
