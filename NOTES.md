@@ -582,3 +582,5 @@ Includes a very simple form service for forms submissions
 ### Middle Sections
 
 ### Projects & Testimonials
+
+### Contact Form & Footer
