@@ -574,3 +574,5 @@ Includes a very simple form service for forms submissions
 - Override colors, navbar, spacing, buttons and imputs in bootstrap.scss
 
 ### Navigation & Header
+
+### Stats & JavaScript Increment
