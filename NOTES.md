@@ -484,3 +484,9 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 ### Invitations & Takeaways
 
 ### Subscribe & Footer
+
+## Website 3 - Portfolio Website
+
+### Portfolio Project Intro
+
+- Responsive, full viewport, custom javascript, font awsome brand icons, progress bars, Third party script lightbox2 open with scroll, deployment
