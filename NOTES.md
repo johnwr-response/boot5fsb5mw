@@ -490,3 +490,27 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
 ### Portfolio Project Intro
 
 - Responsive, full viewport, custom javascript, font awsome brand icons, progress bars, Third party script lightbox2 open with scroll, deployment
+
+### Portfolio Project Setup
+
+#### Steps to start developing Portfolio website
+
+- CD to folder : ```cd portfolio-website```
+- Install dependencies ```npm i```
+- Run the sass:watch script to constantly watch for changes and build new css: ```npm run sass:watch```
+- Start live server and open in browser
+
+#### Portfolio website changes from bs5-simple-starter
+
+- Used bs5-simple-starter
+- Added lightbox js and css
+- Added Poppins and Lora fonts from google fonts in html
+- Added font family variable in bootstrap.scss
+- Added images
+- Changed sample text in html
+- Override colors, buttons, navbar and spacing in bootstrap.scss
+- Change the container breakpoints in bootstrap.scss
+- The Lightbox2 script is included here, but it can also be installed with npm:  
+  ```npm install lightbox2 --save```
+- Link to Lightbox2 project site:  
+  [https://lokeshdhakar.com/projects/lightbox2/](https://lokeshdhakar.com/projects/lightbox2/)
