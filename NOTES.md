@@ -548,3 +548,9 @@ Includes a very simple form service for forms submissions
 
 - Enable form detection by pressing button in Forms section  
 - Has free plans up to 100 monthly submissions, and paid plans
+
+## Website 4 - Yavin Office Design
+
+### Yavin Office Design Project Intro
+
+- Responsive, navigation bar, positioned background images, custom javascript, inner page, cards, icon area, carousel slider
