@@ -554,3 +554,21 @@ Includes a very simple form service for forms submissions
 ### Yavin Office Design Project Intro
 
 - Responsive, navigation bar, positioned background images, custom javascript, inner page, cards, icon area, carousel slider
+
+### Yavin Office Design Project Setup
+
+#### Steps to start developing Yavin Office Design
+
+- CD to folder : ```cd yavin-website```
+- Install dependencies ```npm i```
+- Run the sass:watch script to constantly watch for changes and build new css: ```npm run sass:watch```
+- Start live server and open in browser
+
+#### Yavin Office Design changes from bs5-simple-starter
+
+- Used bs5-simple-starter
+- Changed sample text in html
+- Added Open-Sans fonts from google fonts in html
+- Added images
+- Added font family variable in bootstrap.scss
+- Override colors, navbar, spacing, buttons and imputs in bootstrap.scss
