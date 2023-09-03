@@ -572,3 +572,5 @@ Includes a very simple form service for forms submissions
 - Added images
 - Added font family variable in bootstrap.scss
 - Override colors, navbar, spacing, buttons and imputs in bootstrap.scss
+
+### Navigation & Header
