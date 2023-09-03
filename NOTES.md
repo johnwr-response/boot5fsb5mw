@@ -516,3 +516,5 @@ A form submission hosting service [https://formspree.io/](https://formspree.io/)
   [https://lokeshdhakar.com/projects/lightbox2/](https://lokeshdhakar.com/projects/lightbox2/)
 
 ### Header With Overlay
+
+- Includes z-index trick to overlay background image and not foreground text
