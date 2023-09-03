@@ -13,6 +13,13 @@ function userScroll() {
     });
 }
 
+function scrollToTop() {
+    // For Safari:
+    document.body.scrollTop = 0;
+    // For Chrome, Firefox, Edge, Ie:
+    document.documentElement.scrollTop = 0;
+}
+
 function incrementStats() {
     const counters = document.querySelectorAll('.counter');
   
@@ -36,6 +43,8 @@ function incrementStats() {
       updateCounter();
     });
 }
-  
+
+// Event Listeners
 document.addEventListener('DOMContentLoaded', userScroll);
 document.addEventListener('DOMContentLoaded', incrementStats);
+document.querySelector('#to-top').addEventListener('click', scrollToTop);
