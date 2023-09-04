@@ -613,3 +613,5 @@ Includes a very simple form service for forms submissions
 - Added images
 - Added font family variable in bootstrap.scss
 - Override colors, spacing, navbar, buttons and inputs in bootstrap.scss
+
+### Header & Rotating Text Script
