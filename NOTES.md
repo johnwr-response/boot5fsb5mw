@@ -615,3 +615,5 @@ Includes a very simple form service for forms submissions
 - Override colors, spacing, navbar, buttons and inputs in bootstrap.scss
 
 ### Header & Rotating Text Script
+
+### Partners & Form
