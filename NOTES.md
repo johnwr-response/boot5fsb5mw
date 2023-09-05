@@ -629,3 +629,5 @@ Includes a very simple form service for forms submissions
 ### Pricing & Project Sections
 
 ### Project Modals
+
+### Newsletter Section & Footer
