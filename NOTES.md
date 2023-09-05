@@ -625,3 +625,5 @@ Includes a very simple form service for forms submissions
 ### Video Section & Animated Button
 
 ### Video Modal
+
+### Pricing & Project Sections
