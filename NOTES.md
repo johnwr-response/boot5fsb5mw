@@ -631,3 +631,5 @@ Includes a very simple form service for forms submissions
 ### Project Modals
 
 ### Newsletter Section & Footer
+
+### Privacy Page
